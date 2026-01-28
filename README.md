@@ -5,7 +5,7 @@
 ## 第三方代码声明
 
 - 原项目：WebGAL by OpenWebGAL  
-  许可证：Mozilla Public License 2.0  
+  原项目许可证：Mozilla Public License 2.0  
   所使用源代码的链接：[[GitHub 链接]](https://github.com/OpenWebGAL/WebGAL)  
   修改：所有修改见 `modification.txt`  
   除了所提及的修改外，其余文件内容保持一致。  
